@@ -97,3 +97,9 @@
 
 ## Многомерное моделирование по Кимбаллу (факты/измерения)
 ![Многомерная модель](drawio/dim_model.png)
+
+## Data Vault
+![Data Vault](drawio/data_vault.png)
+
+## Anchor Modeling
+
