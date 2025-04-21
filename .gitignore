@@ -161,3 +161,6 @@ cython_debug/
 
 # Ruff cache files
 .ruff_cache/
+
+# Drawio
+.$*
