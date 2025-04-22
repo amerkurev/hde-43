@@ -101,5 +101,5 @@
 ## Data Vault
 ![Data Vault](drawio/data_vault.png)
 
-## Anchor Modeling
-
+## Anchor Modeling (небольшая часть, только Payment и GameSession)
+![Anchor Modeling](drawio/anchor_model.png)
