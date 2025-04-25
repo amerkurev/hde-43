@@ -164,3 +164,6 @@ cython_debug/
 
 # Drawio
 .$*
+
+# Data files to load for testing
+_data
