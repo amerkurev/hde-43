@@ -167,3 +167,6 @@ cython_debug/
 
 # Data files to load for testing
 _data
+data
+jars
+result
